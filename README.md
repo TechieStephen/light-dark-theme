@@ -7,7 +7,6 @@ A youtube tutorial on making light and dark mode website using html,css and java
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - JavaScript
 
 ### Screenshot
