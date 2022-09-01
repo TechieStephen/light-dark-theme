@@ -20,5 +20,5 @@ A youtube tutorial on making light and dark mode website using html,css and java
 
 ## Author
 
-- YouTube - [Code with Stephen](https://https://techiestephen.github.io)
+- YouTube - [Code with Stephen](https://www.youtube.com/channel/UCJ0aHIkHp1ll4S8XLj1HzDQ)
 - Twitter - [@techiestephen](https://www.twitter.com/techiestephen)
